@@ -1,0 +1,186 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.first-header{
+    position: absolute;
+    width: 1440px;
+    height: 124px;
+}
+
+.first-header .photo .landie{
+    position: relative;
+    left: 540px;
+    top: -770px;
+    height: 38px;
+    width: 79px;
+}
+
+.first-header .website .home{
+    position: relative;
+    text-decoration: none;
+    color: #505F98;
+    left: 620px;
+    top: -800px;
+    width: 38px;
+    height: 24px;
+    font-size: 20px;
+}
+
+.first-header .website .about{
+    position: relative;
+    text-decoration: none;
+    color: #505F98;
+    left: 680px;
+    top: -800px;
+    width: 38px;
+    height: 24px;
+    font-size: 20px;
+}
+
+.first-header .photo .btn{
+    position: relative;
+    width: 120px;
+    height: 30px;
+    top: -780px;
+    left: 730px;
+    background-color: #111B47;
+    color: white;
+    border-radius: 10px;
+}
+
+.first-header .website .contact{
+    position: relative;
+    text-decoration: none;
+    color: #505F98;
+    left: 730px;
+    top: -800px;
+    width: 49px;
+    height: 24px;
+    font-size: 20px;
+}
+
+.first-header .information .h1{
+    position: relative;
+    width: 675px;
+    height: 48px;
+    top: -680px;
+    left: 730px;
+}
+
+.first-header .information .p-infor{
+    position: relative;
+    width: 605px;
+    height: 140px;
+    top: -670px;
+    left: 730px;
+    color: #929ECC;
+}
+
+
+.first-header .information .p-infor2{
+    position: relative;
+    width: 605px;
+    height: 140px;
+    top: -730px;
+    left: 730px;
+    color: #929ECC;
+}
+
+.first-header .picture .first{
+    position: relative;
+    width: 36px;
+    height: 36px;
+    top: -780px;
+    left: 730px;
+}
+
+.first-header .picture .second{
+    position: relative;
+    width: 36px;
+    height: 36px;
+    top: -780px;
+    left: 1070px;
+}
+
+.first-header .picture .third{
+    position: relative;
+    width: 36px;
+    height: 36px;
+    top: -610px;
+    left: 650px;
+}
+
+
+.first-header .picture .four{
+    position: relative;
+    width: 36px;
+    height: 36px;
+    top: -600px;
+    left: 990px;
+}
+
+.first-header .title .h4{
+    position: relative;
+    width: 325px;
+    height: 26px;
+    top: -895px;
+    left: 730px;
+}
+
+.first-header .title .h42{
+    position: relative;
+    width: 325px;
+    height: 26px;
+    top: -927px;
+    left: 1110px;
+}
+
+.first-header .title .h43{
+    position: relative;
+    width: 325px;
+    height: 26px;
+    top: -780px;
+    left: 730px;
+}
+
+.first-header .title .h44{
+    position: relative;
+    width: 325px;
+    height: 26px;
+    top: -805px;
+    left: 1110px;
+}
+
+.first-header .pc-infor .pc{
+    position: relative;
+    width: 350px;
+    height: 36px;
+    top: -720px;
+    left: 730px;
+}
+
+.first-header .pc-infor .pc2{
+    position: relative;
+    width: 350px;
+    height: 36px;
+    top: -760px;
+    left: 1110px;
+}
+
+.first-header .pc-infor .pc3{
+    position: relative;
+    width: 350px;
+    height: 36px;
+    top: -620px;
+    left: 730px;
+}
+
+.first-header .pc-infor .pc4{
+    position: relative;
+    width: 350px;
+    height: 36px;
+    top: -658px;
+    left: 1110px;
+}

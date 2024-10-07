@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.first-header{
+    width: 1440px;
+    height: 909px;
+}
+
+.first-header .title .title-inf{
+    position: relative;
+    width: 520px;
+    height: 96px;
+    top: 160px;
+    left: 200px;
+}
+
+.first-header .title .title-inf2{
+    position: relative;
+    width: 520px;
+    height: 140px;
+    top: 180px;
+    left: 200px;
+    color: #6F7CB2;
+}
+
+.first-header .title .title-inf3{
+    position: relative;
+    width: 520px;
+    height: 140px;
+    top: 120px;
+    left: 200px;
+    color: #6F7CB2;
+}
+
+.first-header .iphone{
+    position: absolute;
+    width: 492px;
+    height: 800px;
+    top: 100px;
+    left: 1000px;
+}
+
+.first-header .picture .first{
+    position: relative;
+    width: 36px;
+    height: 36px;
+    top: 90px;
+    left: 200px;
+}
+
+.first-header .picture .second{
+    position: relative;
+    width: 36px;
+    height: 36px;
+    top: 90px;
+    left: 480px;
+}
+
+.first-header .picture .third{
+    position: relative;
+    width: 36px;
+    height: 36px;
+    top: 240px;
+    left: 120px;
+}
+
+.first-header .picture .four{
+    position: relative;
+    width: 36px;
+    height: 36px;
+    top: 240px;
+    left: 400px;
+}
+
+.first-header .picture-information .pc-infor{
+    position: relative;
+    width: 245px;
+    height: 54px;
+    top: 100px;
+    left: 200px;
+}
+
+.first-header .picture-information .pc-infor2{
+    position: relative;
+    width: 245px;
+    height: 26px;
+    top: 50px;
+    left: 520px;
+}
+
+.first-header .picture-information .pc-infor3{
+    position: relative;
+    width: 245px;
+    height: 26px;
+    top: 180px;
+    left: 200px;
+}
+
+.first-header .picture-information .pc-infor4{
+    position: relative;
+    width: 245px;
+    height: 26px;
+    top: 155px;
+    left: 520px;
+}
+
+.first-header .website .home{
+    position: relative;
+    text-decoration: none;
+    color: #505F98;
+    left: 165px;
+    top: 28px;
+    width: 38px;
+    height: 24px;
+    font-size: 20px;
+}
+
+.first-header .website .about{
+    position: relative;
+    text-decoration: none;
+    color: #505F98;
+    left: 263px;
+    top: 28px;
+    width: 38px;
+    height: 24px;
+    font-size: 20px;
+}
+
+.first-header .website .contact{
+    position: relative;
+    text-decoration: none;
+    color: #505F98;
+    left: 361px;
+    top: 28px;
+    width: 49px;
+    height: 24px;
+    font-size: 20px;
+}
+
+.first-header .photo .landie{
+    position: relative;
+    left: 900px;
+    top: -3px;
+    height: 38px;
+    width: 79px;
+}
+
+.first-header .photo .btn{
+    position: relative;
+    width: 170px;
+    height: 36px;
+    top: -15px;
+    left: 1300px;
+    background-color: #111B47;
+    color: white;
+    border-radius: 10px;
+}
+
